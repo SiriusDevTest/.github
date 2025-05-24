@@ -61,7 +61,3 @@
 <p align="left">You can find more information on me and my projects through Sirius Studios.<br><br>- https://sirius-studios.tebex.io/<br>- https://discord.gg/98rKbu5KM2<br>- https://siriusnet.xyz<br>- https://github.com/SiriusDevLabs</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SiriusDevOps/SiriusDevOps/output/snake.svg" alt="Snake animation" />
-
-###
